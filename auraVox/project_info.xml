@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProjectSettings>
+  <Name value="auraVox"/>
+  <Version value="1.0.0"/>
+  <Description value=""/>
+  <BundleIdentifier value="com.quietformat.auravox"/>
+  <PluginCode value="Qfsc"/>
+  <EmbedAudioFiles value="Yes"/>
+  <EmbedImageFiles value="Yes"/>
+  <SupportFullDynamicsHLAC value="No"/>
+  <AdditionalDspLibraries value=""/>
+  <OSXStaticLibs value=""/>
+  <WindowsStaticLibFolder value=""/>
+  <ExtraDefinitionsWindows value=""/>
+  <ExtraDefinitionsOSX value=""/>
+  <ExtraDefinitionsIOS value=""/>
+  <ExtraDefinitionsLinux value=""/>
+  <ExtraDefinitionsNetworkDll value=""/>
+  <AppGroupID value=""/>
+  <RedirectSampleFolder value=""/>
+  <AAXCategoryFX value="AAX_EPlugInCategory_Effect"/>
+  <VST3Category value="Reverb"/>
+  <SupportMonoFX value="No"/>
+  <EnableMidiInputFX value="No"/>
+  <EnableMidiOut value="No"/>
+  <EnableSoundGeneratorsFX value="No"/>
+  <VST3Support value="1"/>
+  <UseRawFrontend value="No"/>
+  <ExpansionType value="FilesOnly"/>
+  <EncryptionKey value="quietformat.2025"/>
+  <LinkExpansionsToProject value="No"/>
+  <ReadOnlyFactoryPresets value="1"/>
+  <ForceStereoOutput value="No"/>
+  <AdminPermissions value="No"/>
+  <EmbedUserPresets value="Yes"/>
+  <OverwriteOldUserPresets value="1"/>
+  <EnableGlobalPreprocessor value="No"/>
+  <UseGlobalAppDataFolderWindows value="No"/>
+  <UseGlobalAppDataFolderMacOS value="No"/>
+  <DefaultUserPreset value=""/>
+  <CompileWithPerfetto value="No"/>
+  <CompileWithDebugSymbols value="No"/>
+  <IncludeLorisInFrontend value="No"/>
+  <ProjectType value="FX plugin"/>
+</ProjectSettings>
